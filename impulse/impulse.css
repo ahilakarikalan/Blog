@@ -1,0 +1,237 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+ 
+body{
+   width: 100%;
+    background-image: url(/impulse001.jpg);
+    background-size: 1263px 660px;
+    /* background-position: center; */
+    background-size: 100%;
+    background-repeat: no-repeat;  
+    /* background-color: white; */
+}
+ul li{
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 32px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.quote{
+    color:white;
+    font-family: playfair,serif; 
+    font-weight: 700;
+    font-size: 65px; 
+    position: relative;
+    top: 175px;
+    left: 300px;
+}
+.button{
+    color: white;
+    font-family:  "Fira Sans Condensed", sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    letter-spacing: 2px;
+    background-color:rgb(146,64,14); 
+    height: 20px;
+    width: 130px; 
+    padding: 18px 15px 14px 29px;
+    /* margin-right: 20px; */
+    position: relative;
+    top: 230px;
+    left:550px ; 
+    cursor: pointer;
+}
+.below{
+    color:white;
+    font-family:  "Fira Sans Condensed", sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.find{
+    position: relative;
+    top:403px;
+    left: 190px;
+}
+.get{
+    position: relative;
+    top:386px;
+    left: 970px;
+}
+.image2{
+    position: relative;
+    top: 533px;
+    left: 90px;
+}
+.opposite{
+    background-color: rgb(243,244,246);
+    height: 489px;
+    width: 634px;
+    position: relative;
+    left: 630px;
+    top: 142px;
+}
+.wideBox{
+    background-color:rgb(146,64,14) ;
+    width: 100px;
+    height: 7px;
+    position: relative;
+    top: 90px;
+    left: 90px;
+}
+.latest{
+    position: relative;
+    top: 105px;
+    left: 58px;
+    line-height: 101%;
+    font-family: playfair display,serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: rgb(55,65,81);
+}
+.bring{
+    font-family:Overpass; 
+    font-size: 16px; 
+    font-weight: 300; 
+    color: rgb(55,65,81);
+    position: relative;
+    top: 140px;
+    left: 60px;
+    line-height: 25px;
+}
+.read{
+    font-family: "Overpass",serif;
+    font-size: 14px;
+    font-weight: 300;
+    border-color: rgb(146,64,14);
+    border-style: solid; 
+    height: 20px;
+    width: 100px;
+    position: relative;
+    top: 168px;
+    left: 90px;
+    padding: 10px 25px 10px 25px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    color: rgb(146,64,14) ;
+}
+.image3{
+    position: relative;
+    top:142px;
+}
+.wide2{
+    background-color:rgb(146,64,14) ;
+    width: 95px;
+    height: 7px;
+    position: relative;
+    top: 270px;
+    left: 580px;
+}
+.love{
+    font-family: playfair,serif; 
+    font-size: 53px;
+    font-weight: 700;
+    color: rgb(55, 65, 81);
+    position: relative;
+    top: 280px;
+    text-align: center;
+}
+.loveD{
+    font-family: "Overpass",serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(75, 85, 99);
+    position: relative;
+    top: 290px;
+    text-align: center;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+.image4{
+    position: relative;
+    top: 450px;
+    cursor: pointer;
+}
+.image5{
+    position: relative;
+    left: 421px;
+    top: 139px;
+    cursor: pointer;
+}
+.image6{
+    position: relative;
+    top: -172px;
+    left: 842px;
+    cursor: pointer;
+}
+.image4:hover{
+    filter: brightness(50%);
+
+}
+.image5:hover{
+    filter: brightness(50%);
+}
+.image6:hover{
+    filter: brightness(50%);
+}
+.opposite2{
+    background-color: rgb(243,244,246);
+    height: 459px;
+    width: 634px;
+    position: relative;
+    top: -194px;
+}
+.second{
+    position: relative;
+    top: 105px;
+    left: 21px;
+    line-height: 101%;
+    font-family: playfair display,serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: rgb(55,65,81);
+}
+.iterative{
+    font-family:Overpass; 
+    font-size: 16px; 
+    font-weight: 300; 
+    color: rgb(55,65,81);
+    position: relative;
+    top: 130px;
+    left: 45px;
+    line-height: 25px;
+}
+.findOut{
+    color: white;
+    font-family:  "Fira Sans Condensed", sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    letter-spacing: 2px;
+    background-color:rgb(146,64,14); 
+    height: 20px;
+    width: 130px; 
+    padding: 18px 15px 14px 29px;
+    /* margin-right: 20px; */
+    position: relative;
+    top: -500px;
+    left:550px ; 
+    cursor: pointer;
+}
+.bottom{
+    background-color: rgb(65,70,82);
+    height: 450px;
+    position: relative;
+    top: -340px;
+}
